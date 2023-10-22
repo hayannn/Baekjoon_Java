@@ -26,3 +26,6 @@
 > * `IntelliJ IDEA`
 =======
 >>>>>>> fac2c22 (Initial commit)
+
+
+* 현재, 5단계부터 진행중입니다.
